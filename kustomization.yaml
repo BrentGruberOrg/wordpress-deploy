@@ -1,0 +1,7 @@
+resources:
+  - namespace.yaml
+  
+generators:
+  - helm-chart.yaml
+
+namespace: wordpress
